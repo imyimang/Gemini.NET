@@ -1,0 +1,12 @@
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\obj\Debug\gemini.NET.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\obj\Debug\gemini.NET.Properties.Resources.resources
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\obj\Debug\gemini.NET.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\obj\Debug\gemini.NET.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\bin\Debug\gemini.NET.exe.config
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\bin\Debug\gemini.NET.exe
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\bin\Debug\gemini.NET.pdb
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\obj\Debug\gemini.NET.csproj.Up2Date
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\obj\Debug\gemini.NET.exe
+C:\Users\lucas\Documents\code\Gemini_api.Net\gemini.NET\gemini.NET\obj\Debug\gemini.NET.pdb
